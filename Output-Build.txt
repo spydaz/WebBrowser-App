@@ -1,0 +1,14 @@
+﻿------ Rebuild All started: Project: PluginContracts, Configuration: Release Any CPU ------
+  PluginContracts -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\IPlugin\bin\Release\PluginContracts.dll
+------ Rebuild All started: Project: SpydazWebBrowser, Configuration: Release Any CPU ------
+  SpydazWebBrowser -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\WebBrowser App\WebBrowser App\bin\Release\Spydaz WebBrowser.exe
+------ Rebuild All started: Project: MyPlugin, Configuration: Release Any CPU ------
+  MyPlugin -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\MyPlugin\bin\Release\MyPlugin.dll
+------ Rebuild All started: Project: PlugInHost, Configuration: Release Any CPU ------
+  PlugInHost -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\PlugInHost\bin\Release\Plugin Test Container.exe
+------ Rebuild All started: Project: MainAI, Configuration: Release Any CPU ------
+C:\Program Files (x86)\MSBuild\12.0\bin\Microsoft.Common.CurrentVersion.targets(3240,5): warning MSB3178: Assembly 'Artificial_Intelligence_Tools.dll' is incorrectly specified as a file.
+  MainAI -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\AI\bin\Release\SpydazWeb_AI.exe
+------ Rebuild All started: Project: Artificial_Intelligence_Tools, Configuration: Release Any CPU ------
+  Artificial_Intelligence_Tools -> D:\DOCUMENTS\Visual Studio 2013\Projects\AI\AI_ToolsClass\bin\Release\Artificial_Intelligence_Tools.dll
+========== Rebuild All: 6 succeeded, 0 failed, 0 skipped ==========
